@@ -1,5 +1,7 @@
 <h3 align="center">Data Scientist | ML & AI | Data Engineer | Data Analyst</h3>
 
+Hi! I'm Abhiram Desai
+
 - 🧑🏻‍🎓 I’m a Masters student at **Northeastern University**
 
 - 🔭 I’m looking for opportunities in **Data Science, Machine Learning, Data Engineering, Data Analytics**
