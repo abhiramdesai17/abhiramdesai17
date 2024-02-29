@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**abhiramdesai17/abhiramdesai17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am Abhiram Desai
-
 <h3 align="center">Data Scientist | ML & AI | Data Engineer | Data Analyst</h3>
 
 - 🧑🏻‍🎓 I’m a Masters student at **Northeastern University**
