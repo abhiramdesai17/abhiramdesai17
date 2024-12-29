@@ -16,8 +16,6 @@ I'm Abhiram Desai
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19MHoWJRLO452cySE-6B5shyETrzOaJhZ/view](https://drive.google.com/file/d/19MHoWJRLO452cySE-6B5shyETrzOaJhZ/view)
 
-- ⚡ Fun fact **I am the captain of Northeastern University's Cricket Team**
-
 ###
 
 <div align="center">
