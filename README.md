@@ -8,7 +8,7 @@
 
 I'm Abhiram Desai
 
-- 🧑🏻‍🎓 I’m a Masters student at **Northeastern University**
+- 🧑🏻‍🎓 I’m a **Northeastern University** alum
 
 - 🔭 I’m looking for opportunities in **Data Science, Machine Learning, Data Engineering, Data Analytics**
 
