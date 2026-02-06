@@ -1,4 +1,4 @@
-<h3 align="center">Data Scientist | ML & AI | Data Engineer | Data Analyst</h3>
+<h3 align="center">Product Manager | Artificial Intelligence | Data Analysis</h3>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-I'm Abhiram Desai
+I'm Abhiram Desai, an **Amazonian**
 
 - 🧑🏻‍🎓 I’m a **Northeastern University** alum
 
