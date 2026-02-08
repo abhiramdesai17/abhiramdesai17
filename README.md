@@ -41,60 +41,6 @@ Each repository is structured to answer:
 
 Think of the code as **proof of execution**, not the product itself.
 
-### 
-
-## 🧩 Product Skills & Platforms (visual)
-
-<h3 align="left">Product Skills & Platforms</h3>
-
-<p align="left">
-
-<!-- Product delivery / collaboration tooling -->
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="jira" width="40" height="40"/>
-</a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" alt="confluence" width="40" height="40"/>
-</a>
-<a href="https://www.atlassian.com/software/trello" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trello.svg" alt="trello" width="40" height="40"/>
-</a>
-<a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrumalliance.svg" alt="scrum" width="40" height="40"/>
-</a>
-
-<!-- Analytics & BI (platform icons instead of listing skills) -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" alt="powerbi" width="40" height="40"/>
-</a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="tableau" width="40" height="40"/>
-</a>
-<a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleanalytics.svg" alt="google analytics" width="40" height="40"/>
-</a>
-
-<!-- Cloud & AI product surfaces -->
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-</a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="40" height="40"/>
-</a>
-
-<!-- Data layer (kept minimal, since PM portfolio still benefits from credibility) -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-</p>
-
 ###
 
 ## 🔗 Portfolio & Resume
