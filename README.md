@@ -43,42 +43,9 @@ Think of the code as **proof of execution**, not the product itself.
 
 ---
 
-## 🧩 Product Domains & Capabilities
+### 
 
-<p align="left">
-
-<!-- AI / GenAI Products -->
-<img src="https://img.shields.io/badge/AI--Enabled%20Products-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GenAI%20Chatbots-412991?style=for-the-badge&logo=chatbot&logoColor=white" />
-<img src="https://img.shields.io/badge/Human--in--the--Loop%20Systems-2E3440?style=for-the-badge&logo=semanticweb&logoColor=white" />
-
-<br/><br/>
-
-<!-- Data & Analytics Products -->
-<img src="https://img.shields.io/badge/Data%20%26%20Analytics%20Platforms-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Decision%20Support%20Systems-1F2937?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/ML%20Evaluation%20%26%20Quality%20Metrics-6B7280?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
-
-<br/><br/>
-
-<!-- Product Management -->
-<img src="https://img.shields.io/badge/Product%20Strategy%20%26%20Roadmaps-0052CC?style=for-the-badge&logo=producthunt&logoColor=white" />
-<img src="https://img.shields.io/badge/KPIs%20%26%20Guardrails-111827?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Data--Driven%20Prioritization-374151?style=for-the-badge&logo=powerbi&logoColor=white" />
-
-<br/><br/>
-
-<!-- Delivery & Execution -->
-<img src="https://img.shields.io/badge/Cross--Functional%20Leadership-0F172A?style=for-the-badge&logo=teamspeak&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile%20%26%20Product%20Delivery-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-<img src="https://img.shields.io/badge/Product%20Launch%20%26%20Iteration-16A34A?style=for-the-badge&logo=launchpad&logoColor=white" />
-
-<br/><br/>
-
-<!-- Cloud Platforms -->
-<img src="https://img.shields.io/badge/Cloud--Based%20SaaS-AWS%20%7C%20Azure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-</p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 
 ---
 
