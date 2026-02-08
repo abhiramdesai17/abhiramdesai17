@@ -6,7 +6,7 @@
 I’m Abhiram Desai — a Product Manager who builds AI- and data-driven products through hands-on execution.
 </p>
 
----
+###
 
 ## 👋 About Me
 
@@ -15,7 +15,7 @@ This GitHub showcases **products built through code**, with a strong emphasis on
 
 The repositories here are meant to be read as **product case studies**, not just technical implementations.
 
----
+###
 
 ## 🧭 What You’ll Find Here
 
@@ -28,7 +28,7 @@ The repositories here are meant to be read as **product case studies**, not just
   - Analytics and decision-support platforms
   - Internal tools that improve operational efficiency
 
----
+###
 
 ## 🧠 How to Read My Projects
 
@@ -41,13 +41,61 @@ Each repository is structured to answer:
 
 Think of the code as **proof of execution**, not the product itself.
 
----
-
 ### 
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+## 🧩 Product Skills & Platforms (visual)
 
----
+<h3 align="left">Product Skills & Platforms</h3>
+
+<p align="left">
+
+<!-- Product delivery / collaboration tooling -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="jira" width="40" height="40"/>
+</a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" alt="confluence" width="40" height="40"/>
+</a>
+<a href="https://www.atlassian.com/software/trello" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trello.svg" alt="trello" width="40" height="40"/>
+</a>
+<a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrumalliance.svg" alt="scrum" width="40" height="40"/>
+</a>
+
+<!-- Analytics & BI (platform icons instead of listing skills) -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" alt="powerbi" width="40" height="40"/>
+</a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="tableau" width="40" height="40"/>
+</a>
+<a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleanalytics.svg" alt="google analytics" width="40" height="40"/>
+</a>
+
+<!-- Cloud & AI product surfaces -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+</a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="40" height="40"/>
+</a>
+
+<!-- Data layer (kept minimal, since PM portfolio still benefits from credibility) -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+</p>
+
+###
 
 ## 🔗 Portfolio & Resume
 
@@ -57,20 +105,20 @@ Think of the code as **proof of execution**, not the product itself.
 - 📄 Resume  
   https://drive.google.com/file/d/19MHoWJRLO452cySE-6B5shyETrzOaJhZ/view
 
----
+###
 
 ## 🤝 Let’s Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhiram-desai-2119271b3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="mailto:abhiramdesai.99@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/abhiram-desai-2119271b3/" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> 
+  </a> 
+  <a href="abhiramdesai.99@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> 
+  </a> 
 </div>
 
----
+###
 
 <hr />
 
