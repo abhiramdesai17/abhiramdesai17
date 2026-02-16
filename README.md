@@ -46,10 +46,10 @@ Think of the code as **proof of execution**, not the product itself.
 ## 🔗 Portfolio & Resume
 
 - 🌐 Portfolio & Product Write-ups  
-  https://abhiram-desai.vercel.app/
+  
 
 - 📄 Resume  
-  https://drive.google.com/file/d/19MHoWJRLO452cySE-6B5shyETrzOaJhZ/view
+  
 
 ###
 
