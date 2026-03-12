@@ -1,4 +1,4 @@
-<h3 align="center">Product Manager | AI & Data Products</h3>
+<h3 align="center">Product / Program Manager | AI & Data Products</h3>
 
 <h1 align="center">Hi there 👋 Welcome to my GitHub</h1>
 
